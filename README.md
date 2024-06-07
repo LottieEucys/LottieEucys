@@ -1,26 +1,14 @@
 ## Introduction
 
-I started coding 6 years ago. My first programming language is *Java*.
-I've done several small project like Point-of-Sale, Student Management System for Several School
-and Library Inventory System. I do some back-end for website and plugins for Minecraft.
+I started coding 6 years ago, with *Java* as my first programming language. I've completed several small projects, including a Point-of-Sale system, a Student Management System for several schools, and a Library Inventory System. I also have experience with backend development for websites and creating plugins for Minecraft.
 
-> I'm from the Philippines and currently taking [ Bachelor of Science In Computer Engineering ]
-> as of now, I'm currently in my 3rd year of college and until now we are still on the topic
-> of Java and manage to improve myself through self-study, researching, joining different communities
-> and reading docs of the programming language that I want to learn because relying on the things that
-> my University professor will lead me nowhere.
+> I'm from the Philippines and currently pursuing a [Bachelor of Science in Computer Engineering]. As of now, I'm in my 3rd year of college. Despite our curriculum still focusing on Java, I've managed to improve myself through self-study, research, joining different communities, and reading documentation for the programming languages I want to learn. Relying solely on my university professors wouldn't have gotten me this far.
 
 ## Study
 
-Things that I've learned so far.
+Here are the things I've learned so far:
 
-- [ Java ] - I can say that I have a solid foundation when it comes to Java because of my experience in developing various applications,
-using API to integrate on my Java application, and using OOP principle when programming.
-- [ Javascript ] - I won't say I'm an expert but I've done several project with Javascript like using it for web development, creating discord
-and twitch bot, reactJS application like web-based POS (Yes! I'm obsessed with POS, got a problem with that? it's on demand because many people
-now do online selling and always complain that they are using Excel for their business)
-- [ Python ] - more on IoT and some Web Servers.
-- [ C# ] - Doing some experiment like converting my Java Program to C# and implementing it in different way, and also got hook with Asynchronous
-in C#.
-
-
+- **Java**: I have a solid foundation in Java, developed through experience in creating various applications, integrating APIs into my Java applications, and applying OOP principles in my programming.
+- **JavaScript**: While I don't consider myself an expert, I've worked on several projects using JavaScript. These include web development, creating Discord and Twitch bots, and developing ReactJS applications like web-based POS systems. (Yes, I'm obsessed with POS systems. They're in high demand because many people now do online selling and often complain about using Excel for their business.)
+- **Python**: My experience with Python is mostly related to IoT and some web server development.
+- **C#**: I've experimented with converting my Java programs to C#, implementing them in different ways, and exploring asynchronous programming in C#.
