@@ -2,7 +2,7 @@
 
 I started coding 6 years ago, with *Java* as my first programming language. I've completed several small projects, including a Point-of-Sale system, a Student Management System for several schools, and a Library Inventory System. I also have experience with backend development for websites and creating plugins for Minecraft.
 
-> I'm from the Philippines and currently pursuing a [Bachelor of Science in Computer Engineering]. As of now, I'm in my 3rd year of college. Despite our curriculum still focusing on Java, I've managed to improve myself through self-study, research, joining different communities, and reading documentation for the programming languages I want to learn. Relying solely on my university professors wouldn't have gotten me this far.
+> I'm from the Philippines and currently pursuing a [Bachelor of Science in Computer Engineering]. As of now, I'm in my 3rd year of college. Despite our curriculum still focusing on Java, I've managed to improve myself through self-study, research, joining different communities, and reading documentation for the programming languages I want to learn. Relying solely on my university professors and what I can learn in university wouldn't have gotten me this far.
 
 ## Study
 
